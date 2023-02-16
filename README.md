@@ -1,0 +1,2 @@
+# mmldesign.github.io
+Static
